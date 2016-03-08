@@ -1,7 +1,7 @@
-Advanced Android Sample App
+Sunshine Weather App
 ===================================
 
-Synchronizes weather information from OpenWeatherMap on Android Phones and Tablets. Used in the Udacity Advanced Android course.
+Synchronizes weather information from SKP Weather API on Android Phones and Tablets based on Udacity the android weather app.
 
 Pre-requisites
 --------------
