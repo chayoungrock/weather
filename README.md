@@ -1,7 +1,8 @@
-Sunshine Weather App
+My Weather App
 ===================================
 
-Synchronizes weather information from SKP Weather API on Android Phones and Tablets based on Udacity the android weather app.
+Synchronizes weather information from SKP Weather API on Android Phones and Tablets.
+This project is derived from Udacity the android weather app.
 
 Pre-requisites
 --------------
